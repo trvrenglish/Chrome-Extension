@@ -2,7 +2,7 @@
   "name": "NASA Astronomy Picture of the Day (APOD)",
   "version": "1.0.0",
   "description": "This Chrome extension shows you NASA's Astronomy Picture of the Day",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "author": "Trevor English",
   "action": {
     "default_popup": "index.html",
